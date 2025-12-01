@@ -66,7 +66,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiopg](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 * [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
-* [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+* [pymongo](https://github.com/mongodb/mongo-python-driver) - The Official MongoDB Python driver, offering both synchronous and asynchronous APIs.
 * [redis-py](https://github.com/redis/redis-py) - Redis Python Client (which includes [aioreadis](https://github.com/aio-libs/aioredis) now).
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 * [aioinflux](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
@@ -77,7 +77,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Databases](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
 * [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
 * [Piccolo](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
-* [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
+* [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [pymongo](https://github.com/mongodb/mongo-python-driver) and [Pydantic](https://pydantic-docs.helpmanual.io).
 
 ## Networking
 
